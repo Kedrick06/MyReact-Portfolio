@@ -327,7 +327,7 @@ export const Bio = {
       school: "Per Scholas",
       date: "June 2020 - October 2020",
       grade: "Completed",
-      desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
+      desc: "15-Week Full-Stack Development Bootcamp",
       degree: "15-Week Full-Stack Software Engineer Bootcamp",
     },
     {
