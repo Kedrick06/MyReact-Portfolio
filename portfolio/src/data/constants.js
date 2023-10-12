@@ -8,7 +8,7 @@ export const Bio = {
       "Brand Specialist",
     ],
     description:
-      "I am a Developer and Designer of 5 years based in Dallas, Texas. I'm a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results with a growth mindset. I'm ready to make a meaningful contribution, no matter where it may lead!", 
+      "I'm a Developer of 4 years and Designer of 6 years based in Dallas, Texas. I'm a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results with a growth mindset. I'm ready to make a meaningful contribution, no matter where it may lead!", 
     github: "https://github.com/kedrick06",
     resume:
       "https://www.dropbox.com/scl/fi/qma2zrfaz8pmmqu4e4ukq/Kedrick-Kelley-Resume.docx?rlkey=lfktgm3z72tyu2lglj5brcbcz&dl=0",
