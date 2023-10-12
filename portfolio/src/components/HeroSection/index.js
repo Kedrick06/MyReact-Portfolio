@@ -4,8 +4,6 @@ import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, Hero
 import HeroImg from '../../images/HeroImage.jpg';
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
-import { SocialMediaIcon, SocialMediaIcons } from '../About/AboutStyle';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 
 const HeroSection = () => {

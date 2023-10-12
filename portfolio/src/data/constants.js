@@ -12,7 +12,7 @@ export const Bio = {
     github: "https://github.com/kedrick06",
     resume:
       "https://www.dropbox.com/scl/fi/qma2zrfaz8pmmqu4e4ukq/Kedrick-Kelley-Resume.docx?rlkey=lfktgm3z72tyu2lglj5brcbcz&dl=0",
-    linkedin: "https://www.linkedin.com/in/kedrick-jamil-kelley/",
+    linkedin: "https://www.linkedin.com/in/kedrickjamilkelley/",
   };
   
   export const skills = [
