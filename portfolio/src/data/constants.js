@@ -501,7 +501,7 @@ export const Bio = {
       id: 13,
       title: "Web Banners",
       description:"Various Custom Web Banners",
-      image:"https://i.ibb.co/MSCjvZ2/Untitled-design-9.jpg",
+      image:"https://i.ibb.co/Kw388S0/Untitled-design-12.jpg",
       tags: ["Adobe Suite, incl. Illustrator & Photoshop"],
       category: "design",
       webapp: "https://www.canva.com/design/DAFxbflfLVk/OQ0EcwZlNoTpJfNC11Yp_g/view?utm_content=DAFxbflfLVk&utm_campaign=designshare&utm_medium=link&utm_source=editor",
