@@ -380,6 +380,23 @@ export const Bio = {
       webapp: "https://alkhemicalroots.com",
     },
     {
+      id: 14,
+      title: "The Exchange Hall - Ounce",
+      description:
+        "Worked on designing a landing page for the AT&T Discovery District's Ounce for White Pants Agency",
+      image:
+        "https://i.ibb.co/Pg8kgvX/Firefox-Screenshot-2023-10-16-T14-34-00-250-Z.png",
+      tags: [
+        "React Js",
+        "Wordpress",
+        "HTML",
+        "Node Js",
+        "CSS"
+      ],
+      category: "web app",
+      webapp: "https://theexchangehall.com/ounce/",
+    },
+    {
       id: 1,
       title: "26andFour Startup Landing Page",
       description:
