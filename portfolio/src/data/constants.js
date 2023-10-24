@@ -397,6 +397,20 @@ export const Bio = {
       webapp: "https://theexchangehall.com/ounce/",
     },
     {
+      id: 14,
+      title: "Website Design Mockup",
+      description:
+        "Designed a product page mockup for an e-commerce startup",
+      image:
+        "https://i.ibb.co/HDDsS4R/Canon-587i-DLR.jpg",
+      tags: [
+        "Adobe Photoshop",
+        "Adobe XD",
+      ],
+      category: "design",
+      webapp: "https://www.canva.com/design/DAFyMJkcVSw/kP6VERvmwhIzJTqWJiJQmQ/view?utm_content=DAFyMJkcVSw&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+    },
+    {
       id: 1,
       title: "26andFour Startup Landing Page",
       description:
