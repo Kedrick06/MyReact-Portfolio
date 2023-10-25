@@ -374,7 +374,7 @@ export const Bio = {
       description:
         "Developed a full-stack web site for e-commerce start-up.",
       image:
-        "https://i.ibb.co/m688vB4/Firefox-Screenshot-2023-10-11-T15-50-55-721-Z.png",
+        "https://yourimageshare.com/ib/0ENQ3G3Jex.webp",
       tags: ["Wordpress", "HTML", "CSS", "Divi", "Elementor"],
       category: "web app",
       webapp: "https://alkhemicalroots.com",
@@ -385,7 +385,7 @@ export const Bio = {
       description:
         "Worked on designing a landing page for the AT&T Discovery District's Ounce for White Pants Agency",
       image:
-        "https://i.ibb.co/Pg8kgvX/Firefox-Screenshot-2023-10-16-T14-34-00-250-Z.png",
+        "https://yourimageshare.com/ib/T00WC9dpVJ.webp",
       tags: [
         "React Js",
         "Wordpress",
@@ -402,7 +402,7 @@ export const Bio = {
       description:
         "Designed a product page mockup for an e-commerce startup",
       image:
-        "https://i.ibb.co/HDDsS4R/Canon-587i-DLR.jpg",
+        "https://yourimageshare.com/ib/h8GovTeAnz.webp",
       tags: [
         "Adobe Photoshop",
         "Adobe XD",
@@ -416,7 +416,7 @@ export const Bio = {
       description:
         "Designed a mobile/web app landing page for a start-up IT company",
       image:
-        "https://i.ibb.co/M7J5JWN/Untitled-design-1.jpg",
+        "https://yourimageshare.com/ib/wdEIHPVEJ3.webp",
       tags: [
         "React Js",
         "HTML",
@@ -431,7 +431,7 @@ export const Bio = {
       title: "A.I. Article Summarizer",
       description: "I developed an AI powered Article Summarizer using Open AI's API with React, Vite, and TailwindCSS",
       image:
-        "https://i.ibb.co/X3ncC4B/Untitled-design-2.jpg",
+        "https://yourimageshare.com/ib/U01ryvRXSG.webp",
       tags: ["React", "Vite", "Tailwind","Api", "React"],
       category: "mobile app",
       webapp: "https://extraordinary-mandazi-166c1e.netlify.app/",
@@ -442,7 +442,7 @@ export const Bio = {
       description:
         "The T.D. Jakes Ministries App, vital for keeping volunteers and members up to date with the latest media and conferences.",
       image:
-        "https://i.ibb.co/3fHpB8X/Untitled-design-4.jpg",
+        "https://yourimageshare.com/ib/gDHTkRmibk.webp",
       tags: ["HTML", "Javascript", "Content Management System", "Google Analytics"],
       category: "mobile app",
       webapp: "https://www.tdjakes.org/app/",
@@ -452,7 +452,7 @@ export const Bio = {
       title: "Phone Daddy - Ecommerce Shopify Development & Management",
       description:
         "Worked for Phone Daddy for Website design and development.",
-      image: "https://i.ibb.co/s2NVSvp/Firefox-Screenshot-2023-10-11-T16-52-28-264-Z.png",
+      image: "https://yourimageshare.com/ib/zJBSHLFtKp.webp",
       tags: ["Shopify", "JavaScript", "CSS", "Liquid"],
       category: "web app",
       webapp: "https://phonedaddy.com",
@@ -463,7 +463,7 @@ export const Bio = {
       description:
         "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
       image:
-        "https://i.ibb.co/Hxh0Bwg/Firefox-Screenshot-2023-10-11-T17-02-49-563-Z.png",
+        "https://yourimageshare.com/ib/IrqQpAEocd.webp",
       tags: ["React Js", "Firebase", "Firestore", "Node JS"],
       category: "mobile app",
       webapp: "https://slack-40c67.web.app",
@@ -474,7 +474,7 @@ export const Bio = {
       description:
         " A Todo Web App made with React JS, and CSS..",
       image:
-        "https://i.ibb.co/GvNrgrc/Untitled-design-7.jpg",
+        "https://yourimageshare.com/ib/Y72U2QbMJ0.webp",
       tags: ["React Js", "Local Storage", "Node JS"],
       category: "web app",
       webapp: "https://eager-shaw-6d9cd2.netlify.app",
@@ -483,7 +483,7 @@ export const Bio = {
       id: 6,
       title: "Tyler Design - Logo Design",
       description:"A simple logo and branding markup for a startup",
-      image:"https://i.ibb.co/zxtBSkP/Untitled-design-5.jpg",
+      image:"https://yourimageshare.com/ib/8FFPQyWtq0.webp",
       tags: ["Adobe Suite"],
       category: "design",
       webapp: "hhttps://www.canva.com/design/DAFw-UUChD8/zabMFbX5DEKjkkWXNxrxkA/view?utm_content=DAFw-UUChD8&utm_campaign=designshare&utm_medium=link&utm_source=editor",
@@ -494,7 +494,7 @@ export const Bio = {
       description:
         "Wireframe Work for BTC",
       image:
-        "https://i.ibb.co/nD8FhMV/Untitled-design-8.jpg",
+        "https://yourimageshare.com/ib/vceJkRzVQD.webp",
       tags: ["Adobe XD"],
       category: "design",
       webapp: "https://www.canva.com/design/DAFw-UUChD8/zabMFbX5DEKjkkWXNxrxkA/view?utm_content=DAFw-UUChD8&utm_campaign=designshare&utm_medium=link&utm_source=editor",
@@ -505,7 +505,7 @@ export const Bio = {
       description:
         "UI/UX Design Mobile Splash Page Mockup for Startup",
       image:
-        "https://i.ibb.co/GTBm7gg/Untitled-design-6.jpg",
+        "https://yourimageshare.com/ib/lqapiBeDgy.webp",
       tags: ["Adobe XD"],
       category: "design",
       webapp: "https://www.canva.com/design/DAFw-UUChD8/zabMFbX5DEKjkkWXNxrxkA/view?utm_content=DAFw-UUChD8&utm_campaign=designshare&utm_medium=link&utm_source=editor",
@@ -514,7 +514,7 @@ export const Bio = {
       id: 11,
       title: "Logo Designs",
       description:"Various Custom Logo Designs using Adobe Illustrator and Photoshop",
-      image:"https://i.ibb.co/SdQm8bG/Untitled-design-10.jpg",
+      image:"https://yourimageshare.com/ib/WtbLg1EOCL.webp",
       tags: ["Adobe Suite, incl. Illustrator & Photoshop"],
       category: "design",
       webapp: "https://www.canva.com/design/DAFw-UUChD8/zabMFbX5DEKjkkWXNxrxkA/view?utm_content=DAFw-UUChD8&utm_campaign=designshare&utm_medium=link&utm_source=editor",
@@ -523,7 +523,7 @@ export const Bio = {
       id: 12,
       title: "Motion Art",
       description:"Custom Motion Graphics",
-      image:"https://i.ibb.co/QFs8Qvd/Flawed-Cover-Art1-min.png",
+      image:"https://yourimageshare.com/ib/kSEE7xakmj.webp",
       tags: ["Adobe Suite, incl. After Effects, Illustrator, & Photoshop"],
       category: "design",
       webapp: "https://www.canva.com/design/DAFxbYsfTJc/gP5OsTCSdMZR9k4w0HdbNQ/watch?utm_content=DAFxbYsfTJc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel",
@@ -532,7 +532,7 @@ export const Bio = {
       id: 13,
       title: "Web Banners",
       description:"Various Custom Web Banners",
-      image:"https://i.ibb.co/Kw388S0/Untitled-design-12.jpg",
+      image:"https://yourimageshare.com/ib/UkP8XNreBM.webp",
       tags: ["Adobe Suite, incl. Illustrator & Photoshop"],
       category: "design",
       webapp: "https://www.canva.com/design/DAFxbflfLVk/OQ0EcwZlNoTpJfNC11Yp_g/view?utm_content=DAFxbflfLVk&utm_campaign=designshare&utm_medium=link&utm_source=editor",
