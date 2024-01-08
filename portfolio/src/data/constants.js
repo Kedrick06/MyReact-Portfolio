@@ -11,7 +11,7 @@ export const Bio = {
       "I'm a Developer of 4 years and Designer of 6 years based in Dallas, Texas. I'm a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results with a growth mindset. I'm ready to make a meaningful contribution, no matter where it may lead!", 
     github: "https://github.com/kedrick06",
     resume:
-      "https://www.dropbox.com/scl/fi/qma2zrfaz8pmmqu4e4ukq/Kedrick-Kelley-Resume.docx?rlkey=lfktgm3z72tyu2lglj5brcbcz&dl=0",
+      "https://www.dropbox.com/scl/fi/0o4m76qcu157isuq98riv/KK-Updated-Resume.pdf?rlkey=urp84wstc35u8s6d5gvav5n3q&dl=0",
     linkedin: "https://www.linkedin.com/in/kedrickjamilkelley/",
   };
   
@@ -173,6 +173,21 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
+      img: "https://simplyicard.com/wp-content/uploads/2023/11/cropped-cropped-Mesa_de_trabajo_1.png",
+      role: "Full Stack Developer",
+      company: "Simply iCard",
+      date: "Nov 2023 - Ongoing Contract",
+      desc: "Full Stack Development involving Wordpress, Elementor, and the Sharepoint Framework",
+      skills: [
+        "Wordpress",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JQuery",
+      ],
+    },
+    {
+      id: 1,
       img: "https://www.thepottershouse.org/wp-content/uploads/TPH_Logo_v2.png",
       role: "Web Developer",
       company: "The Potter's House",
@@ -191,7 +206,7 @@ export const Bio = {
       ],
     },
     {
-      id: 1,
+      id: 2,
       img: "data:image/jpeg;base64,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",
       role: "Web Developer",
       company: "Phone Daddy",
@@ -206,7 +221,7 @@ export const Bio = {
       ],
     },
     {
-      id: 2,
+      id: 3,
       img: "data:image/png;base64,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",
       role: "Web Developer",
       company: "Tech Ninjas DFW",
@@ -214,7 +229,7 @@ export const Bio = {
       desc: " Built out landing pages using shopify, html, react, javascript, and tailwindcss. Strategized and implemented SEO methods for various websites",
     },
     {
-      id: 3,
+      id: 4,
       img: "https://sliquid.com/wp-content/uploads/2020/11/sliquid-organics-image-1.jpg",
       role: "Web Developer",
       company: "Sliquid LLC",
@@ -226,7 +241,7 @@ export const Bio = {
       ],
     },
     {
-      id: 4,
+      id: 5,
       img: "https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1309/original/Generation_USA_logo.jpeg",
       role: "Junior Web Developer TA",
       company: "Generation USA",
@@ -239,7 +254,7 @@ export const Bio = {
       ],
     },
     {
-      id: 5,
+      id: 6,
       img: "https://media.licdn.com/dms/image/C560BAQGT2HtAIshW7g/company-logo_200_200/0/1678816175919?e=2147483647&v=beta&t=QLujASSZCnJ6f6jtww7X4hc53h1PRV4iXyz8Ptkl1ag",
       role: "Web Developer Intern",
       company: "White Pants Agency",
@@ -252,7 +267,7 @@ export const Bio = {
       ],
     },
     {
-      id: 6,
+      id: 7,
       img: "https://hired.com/wp-content/uploads/2022/06/Per-Scholas.png",
       role: "Software Engineering Bootcamp",
       company: "Per Scholas",
@@ -269,7 +284,7 @@ export const Bio = {
       ],
     },
     {
-      id: 7,
+      id: 8,
       img: "https://media.licdn.com/dms/image/C4E0BAQF5FHQw4tRl8A/company-logo_200_200/0/1519905046117?e=2147483647&v=beta&t=7WbXBJuym_qrcfFNQh9y5nOdvvqvcrkAFXYFAor9E7M",
       role: "Multimedia Specialist",
       company: "Kelley Law Firm PC",
@@ -283,7 +298,7 @@ export const Bio = {
       ],
     },
     {
-      id: 8,
+      id: 9,
       img: "https://clutchco-static.s3.amazonaws.com/s3fs-public/logos/brasstacks_logopackage_primary-brass-tacks-logo.png?VersionId=j7KdCEI2cNu1YI8SL6LeXQ75n9F6N7f0",
       role: "Apprentice/Core Team Member",
       company: "Brass Tacks Collective",
@@ -298,7 +313,7 @@ export const Bio = {
       ],
     },
     {
-      id: 9,
+      id: 10,
       img: "https://media.licdn.com/dms/image/C560BAQGx5RhBNQzi-w/company-logo_100_100/0/1520099188728?e=2147483647&v=beta&t=_7ZZh-jIqz9vJyvn67_ThQQcFvBNPoBhXHkHjLBnuWs",
       role: "Data Analyst/Graphic Designer",
       company: "Texas Press Clipping Bureau",
@@ -352,6 +367,41 @@ export const Bio = {
   
   export const projects = [
     {
+      id: 17,
+      title: "Simply Works Agency and Simply iCard",
+      description:
+        "Landing Pages Built from Restaurant Mockups for prospective clients.",
+      image:
+        "https://yourimageshare.com/ib/R579Ak1nn7.webp",
+      tags: [
+        "HTML",
+        "Javascript",
+        "Wordpress",
+        "Elementor",
+        "Yoast",
+      ],
+      category: "web app",
+      webapp: "https://rocketads.wpenginepowered.com/restaurant-hub/",
+    },
+    {
+      id: 16,
+      title: "Simply Works Agency and Simply iCard",
+      description:
+        "Site developed for Simply Works agency using Wordpress, Elementor Pro, and other plugins",
+      image:
+        "https://yourimageshare.com/ib/6g2OshMd3b.webp",
+      tags: [
+        "AWS",
+        "Node Js",
+        "HTML",
+        "Javascript",
+        "React"
+      ],
+      category: "web app",
+      webapp: "https://simplyworks.agency",
+
+    },
+    {
       id: 9,
       title: "T.D. Jakes Book Landing Page",
       description:
@@ -380,7 +430,7 @@ export const Bio = {
       webapp: "https://alkhemicalroots.com",
     },
     {
-      id: 14,
+      id: 15,
       title: "The Exchange Hall - Ounce",
       description:
         "Worked on designing a landing page for the AT&T Discovery District's Ounce for White Pants Agency",
