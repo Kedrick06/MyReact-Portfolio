@@ -333,7 +333,7 @@ export const Bio = {
         school: "University of North Texas",
         grade: "60 Credit Hours",
         desc: "I focused on pursuing Radio/Television/Film.",
-      date: "August 2006 - Jan 2011", 
+      date: "August 2006 - December 2010", 
       degree: "Radio/Television/Film",
     },
     {
