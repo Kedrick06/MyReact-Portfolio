@@ -11,7 +11,7 @@ export const Bio = {
       "I'm a Developer of 4 years and Designer of 6 years based in Dallas, Texas. I'm a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results with a growth mindset. I'm ready to make a meaningful contribution, no matter where it may lead!", 
     github: "https://github.com/kedrick06",
     resume:
-      "https://www.dropbox.com/scl/fi/0o4m76qcu157isuq98riv/KK-Updated-Resume.pdf?rlkey=urp84wstc35u8s6d5gvav5n3q&dl=0",
+      "https://www.dropbox.com/scl/fi/gokkefh5mbwop2bt3v2qn/UpdatedResume-KK.pdf?rlkey=p417957lsldbkl8aq7qtnfuxq&dl=0",
     linkedin: "https://www.linkedin.com/in/kedrickjamilkelley/",
   };
   
