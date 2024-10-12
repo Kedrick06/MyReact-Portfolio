@@ -172,6 +172,23 @@ export const Bio = {
   
   export const experiences = [
     {
+      id: 11,
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVcodk1pOx9BNIOFRGR-Obqv759RKXvz1qSw&s",
+      role: "Front End Developer",
+      company: "White Unicorn Agency",
+      date: "Jan 2024 - Current",
+      desc: "Front End Development involving Wordpress, PHP, Advanced Custom Fields, Shopify, and Webflow",
+      skills: [
+        "Wordpress",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JQuery",
+        "Gsap",
+        "Advanced Custom Fields",
+      ],
+    },
+    {
       id: 0,
       img: "https://simplyicard.com/wp-content/uploads/2023/11/cropped-cropped-Mesa_de_trabajo_1.png",
       role: "Full Stack Developer",
@@ -403,11 +420,11 @@ export const Bio = {
     },
     {
       id: 9,
-      title: "T.D. Jakes Book Landing Page",
+      title: "Flylight Drones",
       description:
-        "Landing Page Developed for T.D. Jakes latest book, 'Disruptive Thinking'",
-      image:
-        "https://i.ytimg.com/vi/Wy2VTGu1Dnw/sddefault.jpg",
+        "Website developed for Flylight Drones out of Carrollton, Texas for White Unicorn Agency",
+      image: 
+      "https://i.ibb.co/xLZDbrt/Screenshot-2024-10-11-154229.png",
       tags: [
         "AWS",
         "Node Js",
@@ -416,7 +433,7 @@ export const Bio = {
         "React"
       ],
       category: "web app",
-      webapp: "https://disruptivethinkingbook.com/",
+      webapp: "https://www.flylightdrones.com/?gad_source=1&gclid=EAIaIQobChMIiZjR7JeHiQMVsDjUAR38Jjk2EAAYASAAEgJe9fD_BwE",
     },
     {
       id: 0,
@@ -487,15 +504,15 @@ export const Bio = {
       webapp: "https://extraordinary-mandazi-166c1e.netlify.app/",
     },
     {
-      id: 3,
-      title: "T.D. Jakes Ministries App",
+      id: 4,
+      title:"Pinon Court Hotel in New Mexico",
       description:
-        "The T.D. Jakes Ministries App, vital for keeping volunteers and members up to date with the latest media and conferences.",
+        "Hotel website for company based out of Santa Fe, New Mexico for White Unicorn Agency",
       image:
-        "https://yourimageshare.com/ib/gDHTkRmibk.webp",
-      tags: ["HTML", "Javascript", "Content Management System", "Google Analytics"],
-      category: "mobile app",
-      webapp: "https://www.tdjakes.org/app/",
+        "https://yourimageshare.com/ib/7rTEkOaHt2.webp",
+      tags: ["HTML", "Javascript", "Content Management System","PHP", "Wordpress", "GSAP", "Advanced Custom Fields"],
+      category: "web app",
+      webapp: "https://pinoncourt.com/",
     },
     {
       id: 10,
